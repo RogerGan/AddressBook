@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  EditViewController.h
 //  AddressBook
 //
 //  Created by gancj on 15/4/28.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface EditViewController : UIViewController
 
 @end
-
