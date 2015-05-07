@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>B15EA37A-31B1-4CB8-994F-F8C17EC1973A</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>AddressBook</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>FCFE42F39B6AF133D4FD4E3060C8F8F18DD17F18</key>
 		<string>https://github.com/RogerGan/AddressBook.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>AddressBook.xcodeproj/project.xcworkspace</string>
+	<string>AddressBook.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>FCFE42F39B6AF133D4FD4E3060C8F8F18DD17F18</key>
